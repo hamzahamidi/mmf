@@ -5,9 +5,9 @@
   <a href="https://mmf.readthedocs.io/en/latest/">
   <img alt="Documentation Status" src="https://readthedocs.org/projects/mmf/badge/?version=latest"/>
   </a>
-  <a href="https://colab.research.google.com/drive/1Z9fsh10rFtgWe4uy8nvU4mQmqdokdIRR">
+  <!-- <a href="https://colab.research.google.com/drive/1Z9fsh10rFtgWe4uy8nvU4mQmqdokdIRR">
   <img alt="Open In Colab" src="https://colab.research.google.com/assets/colab-badge.svg"/>
-  </a>
+  </a> -->
   <a href="https://circleci.com/gh/facebookresearch/mmf">
   <img alt="CircleCI" src="https://circleci.com/gh/facebookresearch/mmf.svg?style=svg"/>
   </a>
@@ -38,11 +38,6 @@ MMF can also act as **starter codebase** for challenges around vision and
 language datasets (TextVQA challenge, VQA challenge)
 
 ![MMF Examples](https://i.imgur.com/BP8sYnk.jpg)
-
-## Demo
-
-1. [VQA](https://colab.research.google.com/drive/1Z9fsh10rFtgWe4uy8nvU4mQmqdokdIRR).
-2. [Captioning](https://colab.research.google.com/drive/1vzrxDYB0vxtuUy8KCaGxm--nDCJvyBSg).
 
 ## Documentation
 
